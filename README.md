@@ -3,7 +3,7 @@
 
 A simple music player web application built using HTML, CSS, and JavaScript. This application allows users to browse, search, and play music tracks.
 
-**Note:** This project is primarily a design for a music player interface created using HTML and CSS. Please note that it focuses on the visual aspect, so the functionality for playing music is not fully implemented.
+## Note: This project is primarily a design for a music player interface created using HTML and CSS. Please note that it focuses on the visual aspect, so the functionality for playing music is not fully implemented.
 
 ## Features
 
